@@ -6,5 +6,17 @@
 
 -Run node index to start the project
 
--Look into the file.txt in the fs folder in the current directory for the written file.
+-Install an extension called Restclient
+
+-Create an app.rest file
+
+- input POST http://localhost:3000/
+
+-Add Content-Type: application/json on the following line
+
+-leave a line and write a json, then click send
+
+-look into the fs folder in the current directory
+
+-open the requestBody.txt file 
 
